@@ -1,5 +1,4 @@
-# LINE-Auto-Reply-Chat-SimSimi
-LINE@ Auto Reply Chat SimSimi
+# LINE@ BOT SimSimi
 
 More Info :
 
